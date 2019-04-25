@@ -1,6 +1,6 @@
 # Inhibition-and-excitation-shape-activity-selection
 
-### Simulation code provided in this repository has been developed by Thomas Bose as part of the DiODe project (https://diode.group.shef.ac.uk/) and is open source. It may be used and modified for non-commercial use. If used without significant modification please cite: T. Bose, A. Reina & J.A.R. Marshall (2019), *Neural Computation* (accepted for publication). 
+### Simulation code provided in this repository has been developed by Thomas Bose as part of the DiODe project (https://diode.group.shef.ac.uk/) and is open source. It may be used and modified for non-commercial use. If used without significant modification please cite: [T. Bose, A. Reina & J.A.R. Marshall (2019), *Neural Computation* **31**, 870-896](https://doi.org/10.1162/neco_a_01185). 
 
 ### For further information please contact t.bose@sheffield.ac.uk.
 
