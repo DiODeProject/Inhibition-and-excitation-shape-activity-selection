@@ -4,7 +4,7 @@
 
 ### For further information please contact t.bose@sheffield.ac.uk.
 
-This repository contains code to generate and analyse simulated data that is used in the study of **Inhibition and excitation shape activity selection: effect of oscillations in a decision-making circuit** which has been accepted for publication in *Neural Computation*.
+This repository contains code to generate and analyse simulated data that is used in the study of **Inhibition and excitation shape activity selection: effect of oscillations in a decision-making circuit** which has been published in *Neural Computation*.
 
 Simulations and data analysis were performed in Python code (Python 3) using Jupyter notebooks. For more information on Jupyter notebooks including installation instructions please visit http://jupyter.org/. 
 
